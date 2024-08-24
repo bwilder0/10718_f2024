@@ -4,6 +4,8 @@ Instructor: Bryan Wilder (bwilder@andrew.cmu.edu)
 
 This is a project-based course designed to provide students training and experience in solving real-world problems using machine learning, exploring the interface between research and practice. The goal of this course is to give students exposure to the nuance of applying machine learning to the real-world, where common assumptions (like iid and stationarity) break down. Students will learn how to formulate real-world business or policy scenarios as machine learning problems, how to address common challenges which arise in applying ML to such problems (e.g., distribution shift or missingness), and how to rigorously evaluate the results of such interventions in practice. We will place an emphasis throughout on issues related to ethics and fairness in machine learning, and discuss how choices throughout the machine learning pipeline – including problem formulation, outcome definition, data collection, and model training – contribute to the social impact of algorithmic systems.
 
+[Syllabus](https://docs.google.com/document/d/1XWFsySUTZ2KEmXP57mnIzEkh9QV8qokQtreRBm6-cNg/edit?usp=sharing)
+
 ## Course Components
 
 The requirements of this course consist of two components: participating in in-class discussions and completing the course project. 
@@ -23,7 +25,9 @@ Discussions will loosely follow the [role-playing seminar](https://colinraffel.c
 
 ### Course project
 
-Students will complete a semester-long course project that explores the application of machine learning to a problem of practical interest. Students may work in groups of up to three people. Each group will select a dataset, which _cannot_ be one commonly used in machine learning research. Over a series of assignments, each group will define a problem to be addressed using the dataset, clean and explore it, develop baselines and machine learning models, and explore the impact of additional desiderata on their pipeline (e.g., fairness, privacy, interpretability, or model efficiency).  
+Students will complete a semester-long course project that explores the application of machine learning to a problem of practical interest. Students may work in groups of up to three people. Each group will select a dataset, which _cannot_ be one commonly used in machine learning research. Over a series of assignments, each group will define a problem to be addressed using the dataset, clean and explore it, develop baselines and machine learning models, and explore the impact of additional desiderata on their pipeline (e.g., fairness, privacy, interpretability, or model efficiency). Students can either select their own dataset for the project (which cannot be a commonly used ML benchmark dataset) or select one from the set of examples provided.  
+
+[Example datasets for project](https://docs.google.com/document/d/1K8Yd82q4S-aWpBXdmG9w1FRJonpKrUI0Hxw7_HFL5yc/edit?usp=sharing)
 
 ## Grading 
 
