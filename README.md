@@ -6,6 +6,8 @@ This is a project-based course designed to provide students training and experie
 
 [Syllabus](https://docs.google.com/document/d/1XWFsySUTZ2KEmXP57mnIzEkh9QV8qokQtreRBm6-cNg/edit?usp=sharing)
 
+[Shared google drive](https://drive.google.com/drive/folders/1bhFtUAe4eMx1Wjl7u4BfBLXhbJy2oPJ8?usp=drive_link)
+
 ## Course Components
 
 The requirements of this course consist of two components: participating in in-class discussions and completing the course project. 
